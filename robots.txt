@@ -1,0 +1,13 @@
+# Dharmik Motors – robots.txt
+# Electric Vehicle Dealer – Mehsana, Gujarat
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://dharmik-motors.in/sitemap.xml
+
+# Disallow any potential admin or private directories
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /node_modules/
